@@ -1,0 +1,6 @@
+#include "MainWindowStateFactory.h"
+
+MainWindowStateFactory::MainWindowStateFactory()
+{
+
+}
